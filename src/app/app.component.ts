@@ -36,6 +36,11 @@ export class AppComponent {
       name: 'Art Club',
       description: 'Express your creativity through various art forms.',
       memberCount: 15
+    },
+    {
+      name: 'Hemline',
+      description: 'Express your creativity through various creative writing.',
+      memberCount: 15
     }
   ];
 }
